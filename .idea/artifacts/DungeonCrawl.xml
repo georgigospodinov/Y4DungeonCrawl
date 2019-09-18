@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DungeonCrawl">
+    <output-path>$PROJECT_DIR$/out/artifacts/DungeonCrawl</output-path>
+    <root id="archive" name="DungeonCrawl.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="DungeonCrawl" />
+      <element id="extracted-dir" path="$USER_HOME$/processing-3.4/core/library/core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

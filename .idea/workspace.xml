@@ -1,0 +1,1394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DungeonCrawl" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/creatures/abstracted/Stated.java" line="112" mnemonic="7" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1173470-701d-4c17-92a5-36cae27db796" name="Default Changelist" comment="Minor edits">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/DungeonCrawl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report.odt" beforeDir="false" afterPath="$PROJECT_DIR$/Report.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creatures/monsters/MonsterManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creatures/monsters/MonsterManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terrain/Dungeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terrain/Dungeon.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="src/items/Test.java" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="809327156">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="20" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="13" />
+          <entry key="des" value="7" />
+          <entry key="hgignore" value="2" />
+          <entry key="java" value="624" />
+          <entry key="props" value="74" />
+          <entry key="txt" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="13" />
+          <entry key="JAVA" value="624" />
+          <entry key="PLAIN_TEXT" value="89" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="String concat (+)" value="5" />
+          <entry key="des" value="129" />
+          <entry key="dummy" value="3" />
+          <entry key="hgignore" value="22" />
+          <entry key="java" value="71569" />
+          <entry key="myToString" value="30" />
+          <entry key="props" value="3739" />
+          <entry key="txt" value="4483" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="71569" />
+          <entry key="PLAIN_TEXT" value="8411" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/config/screen.props">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="45" column="15" lean-forward="true" selection-start-line="45" selection-end-line="45" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>LinkedHashMap</find>
+      <find>sm</find>
+      <find>max inventory</find>
+      <find>inventory bu</find>
+      <find>no item fo</find>
+      <find>inventory height</find>
+      <find>inventory fill color green</find>
+      <find>D</find>
+      <find>LinkedList</find>
+      <find>new Armor</find>
+      <find>armors</find>
+      <find>attackIsMagical</find>
+      <find>sm.rect(</find>
+      <find>wall</find>
+      <find>itemUsed</find>
+      <find>position.a</find>
+      <find>139</find>
+      <find>3</find>
+      <find>split chance per depth</find>
+      <find>BACK_SIZE</find>
+      <find>&gt;=</find>
+      <find>xp per treasure chest</find>
+      <find>xp per dungeon</find>
+      <find>threat per depth</find>
+      <find>start color red</find>
+      <find>agility r</find>
+      <find>run</find>
+      <find>initial capacity</find>
+      <find>render</find>
+      <find>button play siz</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>BaseRegion</replace>
+      <replace>private</replace>
+      <replace>public</replace>
+      <replace>return null</replace>
+      <replace>P.</replace>
+      <replace>HashSet</replace>
+      <replace>LinkedHashSet</replace>
+      <replace>ArrayList</replace>
+      <replace>&gt;</replace>
+      <replace>jumped</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/screens/components/Message.java" />
+        <option value="$PROJECT_DIR$/src/screens/components/ScrollList.java" />
+        <option value="$PROJECT_DIR$/src/terrain/AObject.java" />
+        <option value="$PROJECT_DIR$/src/items/Weapon.java" />
+        <option value="$PROJECT_DIR$/assets/items/item.props" />
+        <option value="$PROJECT_DIR$/assets/items/weapons/dagger/des" />
+        <option value="$PROJECT_DIR$/assets/items/weapons/great axe/des" />
+        <option value="$PROJECT_DIR$/src/items/Consumable.java" />
+        <option value="$PROJECT_DIR$/src/items/ItemManager.java" />
+        <option value="$PROJECT_DIR$/src/screens/InventoryScreen.java" />
+        <option value="$PROJECT_DIR$/src/items/Gold.java" />
+        <option value="$PROJECT_DIR$/src/items/AItem.java" />
+        <option value="$PROJECT_DIR$/src/items/Inventory.java" />
+        <option value="$PROJECT_DIR$/src/items/BagEnchantment.java" />
+        <option value="$PROJECT_DIR$/src/items/Torch.java" />
+        <option value="$PROJECT_DIR$/assets/items/armors/feathered/des" />
+        <option value="$PROJECT_DIR$/src/terrain/Region.java" />
+        <option value="$PROJECT_DIR$/src/items/ItemLoader.java" />
+        <option value="$PROJECT_DIR$/src/items/Armor.java" />
+        <option value="$PROJECT_DIR$/src/items/individual/Armor.java" />
+        <option value="$PROJECT_DIR$/src/main/ScreenManager.java" />
+        <option value="$PROJECT_DIR$/src/screens/InstructionsScreen.java" />
+        <option value="$PROJECT_DIR$/src/screens/GameOverScreen.java" />
+        <option value="$PROJECT_DIR$/src/screens/MenuScreen.java" />
+        <option value="$PROJECT_DIR$/src/screens/OverlayScreen.java" />
+        <option value="$PROJECT_DIR$/src/screens/Overlay.java" />
+        <option value="$PROJECT_DIR$/src/screens/PlayScreen.java" />
+        <option value="$PROJECT_DIR$/src/screens/Game.java" />
+        <option value="$PROJECT_DIR$/src/screens/Controls.java" />
+        <option value="$PROJECT_DIR$/src/screens/Menu.java" />
+        <option value="$PROJECT_DIR$/src/screens/AScreen.java" />
+        <option value="$PROJECT_DIR$/src/screens/Lore.java" />
+        <option value="$PROJECT_DIR$/src/items/management/ItemLoader.java" />
+        <option value="$PROJECT_DIR$/src/items/management/ItemManager.java" />
+        <option value="$PROJECT_DIR$/src/screens/GameOver.java" />
+        <option value="$PROJECT_DIR$/assets/config/screen.props" />
+        <option value="$PROJECT_DIR$/src/creatures/monsters/Combat.java" />
+        <option value="$PROJECT_DIR$/src/creatures/Player.java" />
+        <option value="$PROJECT_DIR$/assets/config/game.props" />
+        <option value="$PROJECT_DIR$/src/creatures/monsters/Monster.java" />
+        <option value="$PROJECT_DIR$/src/main/Run.java" />
+        <option value="$PROJECT_DIR$/src/terrain/grid/Cell.java" />
+        <option value="$PROJECT_DIR$/src/terrain/grid/CellManager.java" />
+        <option value="$PROJECT_DIR$/src/screens/Play.java" />
+        <option value="$PROJECT_DIR$/src/terrain/AStar.java" />
+        <option value="$PROJECT_DIR$/src/terrain/Dungeon.java" />
+        <option value="$PROJECT_DIR$/src/creatures/abstracted/Mover.java" />
+        <option value="$PROJECT_DIR$/src/creatures/abstracted/Stated.java" />
+        <option value="$PROJECT_DIR$/src/creatures/monsters/MonsterManager.java" />
+        <option value="$PROJECT_DIR$/src/items/management/Inventory.java" />
+        <option value="$PROJECT_DIR$/src/items/individual/Gold.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
+    <option name="width" value="1080" />
+    <option name="height" value="1920" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>TypographyUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>toString() issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>FieldNotUsedInToString</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DungeonCrawl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DungeonCrawl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DungeonCrawl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DungeonCrawl" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DungeonCrawl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DungeonCrawl" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DungeonCrawl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DungeonCrawl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DungeonCrawl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DungeonCrawl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DungeonCrawl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DungeonCrawl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540845597691" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="terrain.Cell" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="items.management" />
+      <recent name="items.individual" />
+      <recent name="items" />
+      <recent name="creatures.monsters" />
+      <recent name="creatures" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Run">
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Run" />
+      <module name="DungeonCrawl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="items.Test" />
+      <module name="DungeonCrawl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="items.individual.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Run" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1173470-701d-4c17-92a5-36cae27db796" name="Default Changelist" comment="" />
+      <created>1539569610399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539569610399</updated>
+    </task>
+    <task id="LOCAL-00077" summary="resolved a problem where the PLAYER could run from combat through walls.">
+      <created>1540528558664</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1540528558664</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Specters can now haunt locations.">
+      <created>1540531228814</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1540531228814</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Arcanists now 'divine' the location of the player with an algorithm that deserves a star.">
+      <created>1540536329622</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1540536329622</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Monster will now attack the player if he is nearby.">
+      <created>1540537363749</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1540537363749</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Fixed a bug where text would leave the screen when displayed on the right.&#10;Moving the bubble with every text seems ugly.">
+      <created>1540546827352</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1540546827352</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Loading armor">
+      <created>1540555511907</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1540555511907</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Displays armors">
+      <created>1540561704438</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1540561704438</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Minor adjustments.">
+      <created>1540562975374</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1540562975374</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Inventory browser.">
+      <created>1540574874305</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1540574874305</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Inventory browser.">
+      <created>1540641905449</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1540641905450</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Mostly working inventory.&#10;And a debug or two">
+      <created>1540650598783</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1540650598783</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Items are now listed chunks, so that the inventory can hold more than there are on the screen.">
+      <created>1540655236129</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1540655236129</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Minor fixes.">
+      <created>1540657959823</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1540657959823</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Gold update. Almost as intended.">
+      <created>1540661527578</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1540661527578</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Weapons are loaded correctly.">
+      <created>1540665396278</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1540665396279</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Weapons are now usable.">
+      <created>1540665876530</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1540665876530</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Weapons flavour text.">
+      <created>1540668496837</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1540668496837</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Magical attacks now penetrate non-magical defense.">
+      <created>1540669696141</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1540669696141</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Fixed a bug where FoV was miscalculated.">
+      <created>1540671726467</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1540671726467</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Monster in combat now spins towards player.">
+      <created>1540672329488</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1540672329488</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Drinking potions now works.">
+      <created>1540674041860</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1540674041860</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Using items in combat now takes a turn.">
+      <created>1540675186804</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1540675186804</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Using ONE item in combat now takes a turn and text is customized.">
+      <created>1540676074529</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1540676074529</updated>
+    </task>
+    <task id="LOCAL-00100" summary="TODOs">
+      <created>1540676603535</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1540676603535</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Random room now returns only cells that are part of rooms, and not corridors.">
+      <created>1540685461745</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1540685461746</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Unoccupied random room.">
+      <created>1540688193429</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1540688193429</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Debug fast following.">
+      <created>1540689317997</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1540689317997</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Minor fix plus give up on collision between monsters.">
+      <created>1540698060067</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1540698060067</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Torch - weapon that influences awareness.">
+      <created>1540699620865</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1540699620865</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Fog of war.">
+      <created>1540701972774</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1540701972775</updated>
+    </task>
+    <task id="LOCAL-00107" summary="Bag size enchantment.">
+      <created>1540705903383</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1540705903383</updated>
+    </task>
+    <task id="LOCAL-00108" summary="TODOs.">
+      <created>1540706570321</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1540706570321</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Minor fixes.">
+      <created>1540746380173</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1540746380174</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Minor fixes.">
+      <created>1540750785514</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1540750785515</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Optimized ItemLoader.">
+      <created>1540751323126</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1540751323126</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Re-organized items package.">
+      <created>1540751522232</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1540751522232</updated>
+    </task>
+    <task id="LOCAL-00113" summary="Inserted controls. Still need fine-tuning.">
+      <created>1540754705146</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1540754705146</updated>
+    </task>
+    <task id="LOCAL-00114" summary="Controls appear well, next up is enemy info.">
+      <created>1540755947797</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1540755947797</updated>
+    </task>
+    <task id="LOCAL-00115" summary="Lore screen.">
+      <created>1540759703341</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1540759703341</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Difficulty seems appropriately challenging.">
+      <created>1540773531012</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1540773531012</updated>
+    </task>
+    <task id="LOCAL-00117" summary="Minor fixes.">
+      <created>1540822872903</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1540822872904</updated>
+    </task>
+    <task id="LOCAL-00118" summary="Minor fixes.">
+      <created>1540824978222</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1540824978222</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Minor fixes.">
+      <created>1540827945308</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1540827945308</updated>
+    </task>
+    <task id="LOCAL-00120" summary="Fixed specter movement.">
+      <created>1540832377171</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1540832377171</updated>
+    </task>
+    <task id="LOCAL-00121" summary="Removed redundant cell parameter from monster creation.">
+      <created>1540832616655</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1540832616656</updated>
+    </task>
+    <task id="LOCAL-00122" summary="Clean up">
+      <created>1540835703558</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1540835703558</updated>
+    </task>
+    <task id="LOCAL-00123" summary="Dungeon depth stored in dungeon.">
+      <created>1540836987324</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1540836987325</updated>
+    </task>
+    <task id="LOCAL-00124" summary="Minor edits">
+      <created>1540839412140</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1540839412140</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Minor edits">
+      <created>1540840521625</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1540840521625</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="0" width="1080" height="1920" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2616279" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32902136" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6670416" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3413948" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.499031" weight="0.38020247" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3295838" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.500969" side_tool="true" weight="0.38132733" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295838" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295838" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295838" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295838" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3413948" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.499031" weight="0.38132733" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295838" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.500969" side_tool="true" weight="0.38132733" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295838" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.props" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Monster in combat now spins towards player." />
+    <MESSAGE value="Drinking potions now works." />
+    <MESSAGE value="Using items in combat now takes a turn." />
+    <MESSAGE value="Using ONE item in combat now takes a turn and text is customized." />
+    <MESSAGE value="TODOs" />
+    <MESSAGE value="Random room now returns only cells that are part of rooms, and not corridors." />
+    <MESSAGE value="Unoccupied random room." />
+    <MESSAGE value="Debug fast following." />
+    <MESSAGE value="Minor fix plus give up on collision between monsters." />
+    <MESSAGE value="Torch - weapon that influences awareness." />
+    <MESSAGE value="Fog of war." />
+    <MESSAGE value="Bag size enchantment." />
+    <MESSAGE value="TODOs." />
+    <MESSAGE value="Optimized ItemLoader." />
+    <MESSAGE value="Re-organized items package." />
+    <MESSAGE value="Inserted controls. Still need fine-tuning." />
+    <MESSAGE value="Controls appear well, next up is enemy info." />
+    <MESSAGE value="Lore screen." />
+    <MESSAGE value="Difficulty seems appropriately challenging." />
+    <MESSAGE value="Minor fixes." />
+    <MESSAGE value="Fixed specter movement." />
+    <MESSAGE value="Removed redundant cell parameter from monster creation." />
+    <MESSAGE value="Clean up" />
+    <MESSAGE value="Dungeon depth stored in dungeon." />
+    <MESSAGE value="Minor edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor edits" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>item instanceof Gold</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>closestFromA == null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/processing-3.4/core/library/core.jar!/processing/core/PApplet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="831">
+          <caret line="647" column="16" selection-start-line="647" selection-start-column="16" selection-end-line="647" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/items/item.props" />
+    <entry file="file://$PROJECT_DIR$/assets/items/weapons/dagger/des">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/items/weapons/flaming sword/des">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk/jre/lib/rt.jar!/java/lang/Object.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/items/armors/leather/des">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="15" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/items/armors/feathered/des">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/Props.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/config/controls.props">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/items/weapons/great axe/des">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/config/game.props">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/components/Checkbox.java" />
+    <entry file="file://$PROJECT_DIR$/src/screens/components/Label.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/components/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/components/Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/components/Clickable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/AScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ScreenManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2472#2473#0" expanded="true" />
+            <element signature="e#2502#2503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/components/ScrollList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/Controls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="111" selection-start-line="19" selection-start-column="111" selection-end-line="19" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/InventoryScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/Lore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="76" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="89" lean-forward="true" selection-start-line="38" selection-start-column="89" selection-end-line="38" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/Play.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/terrain/grid/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/terrain/AObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/terrain/grid/CellManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/terrain/Region.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="96" column="23" lean-forward="true" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/terrain/AStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creatures/abstracted/Mover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="229" column="36" selection-start-line="229" selection-start-column="36" selection-end-line="229" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creatures/abstracted/Stated.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="method#increaseMaxHealth#0;class#Stated#0" />
+            <element signature="method#setAgility#0;class#Stated#0" />
+            <element signature="method#takeDamage#0;class#Stated#0" />
+            <element signature="method#receiveHeal#0;class#Stated#0" />
+            <element signature="method#makeAttack#0;class#Stated#0" />
+            <element signature="method#forEachCellInSight#0;class#Stated#0" />
+            <element signature="e#3724#4148#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creatures/monsters/Monster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="292" column="15" lean-forward="true" selection-start-line="292" selection-start-column="15" selection-end-line="292" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/terrain/Dungeon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="76" column="32" selection-start-line="76" selection-start-column="32" selection-end-line="76" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creatures/monsters/MonsterManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="168" column="23" selection-start-line="168" selection-start-column="23" selection-end-line="168" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/Overlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creatures/monsters/Combat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creatures/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1077">
+          <caret line="156" column="34" selection-start-line="156" selection-start-column="34" selection-end-line="156" selection-end-column="34" />
+          <folding>
+            <element signature="initializer##0;class#Player#0" />
+            <element signature="e#1878#1996#0" />
+            <element signature="e#2397#2892#0" />
+            <element signature="e#2970#3081#0" />
+            <element signature="e#3087#3215#0" />
+            <element signature="e#3221#3544#0" />
+            <element signature="e#3890#3991#0" />
+            <element signature="e#4435#4899#0" />
+            <element signature="e#4905#5133#0" />
+            <element signature="e#5139#5340#0" />
+            <element signature="e#5346#5716#0" />
+            <element signature="e#5722#6095#0" />
+            <element signature="e#6101#6472#0" />
+            <element signature="e#6478#6853#0" />
+            <element signature="e#6859#7877#0" />
+            <element signature="e#7883#7998#0" />
+            <element signature="e#8004#8213#0" />
+            <element signature="e#8412#8824#0" />
+            <element signature="e#8830#9082#0" />
+            <element signature="e#9391#9797#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/items/individual/AItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/items/individual/Gold.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/items/individual/Consumable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/items/individual/BagEnchantment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/items/individual/Armor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/items/individual/Weapon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/items/individual/Torch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="32" column="62" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/items/management/ItemLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="155" column="65" selection-start-line="155" selection-start-column="65" selection-end-line="155" selection-end-column="65" />
+          <folding>
+            <element signature="method#loadArmor#0;class#ItemLoader#0" />
+            <element signature="method#loadWeapon#0;class#ItemLoader#0" />
+            <element signature="method#loadConsumable#0;class#ItemLoader#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/items/management/ItemManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/items/management/Inventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#add#0;class#Inventory#0" />
+            <element signature="method#buildInvList#0;class#Inventory#0" />
+            <element signature="method#use#0;class#Inventory#0" />
+            <element signature="method#remove#0;class#Inventory#0" />
+            <element signature="method#set#0;class#Inventory#0" />
+            <element signature="method#get#0;class#Inventory#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/config/screen.props">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="45" column="15" lean-forward="true" selection-start-line="45" selection-end-line="45" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="true" />
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>DungeonCrawl</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DungeonCrawl</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>core</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
