@@ -1,0 +1,11 @@
+name=Leather Armor
+inventory description=Commonly used leather armor.
+defense bonus=1
+agility penalty=0
+drop chance=0.5
+value=2
+render factor=0.75
+color red=50
+color green=50
+color blue=50
+magical=no

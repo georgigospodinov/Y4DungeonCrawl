@@ -1,0 +1,8 @@
+name=Major Potion
+inventory description=Restores a large amount of health (10).
+value=10
+drop chance=0.2
+render factor=0.8
+color red=127
+color green=0
+color blue=127

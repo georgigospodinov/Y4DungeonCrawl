@@ -1,0 +1,130 @@
+# play screen
+full screen=true
+game width=displayWidth
+game height=displayHeight
+
+# cell
+cell width=0.03
+cell height=0.05
+
+checkbox space=0.10
+fillbox space=0.30
+
+# highlight color
+highlight color red=255
+highlight color green=0
+highlight color blue=127
+
+# wall color
+wall color red=0
+wall color green=0
+wall color blue=0
+
+# room color
+room color red=255
+room color green=255
+room color blue=255
+
+# exit cell color
+exit color red=255
+exit color green=0
+exit color blue=255
+
+# default color
+default color red=127
+default color green=127
+default color blue=127
+
+# Quest
+label quest x=0.02
+label quest y=0.20
+label quest size=0.12
+
+# Play
+button play x=0.30
+button play y=0.50
+button play size=0.10
+
+# Lore button
+button lore x=0.00
+button lore y=0.97
+button lore size=0.02
+
+# Controls button
+button controls x=1.00
+button controls y=0.97
+button controls size=0.02
+
+# Controls screen text
+details size=0.03
+details x=0.05
+details y=0.05
+
+# back button
+back x=0.00
+back y=1.00
+back size=0.15
+
+# Creature colors
+player color red=0
+player color green=0
+player color blue=255
+specter color red=0
+specter color green=100
+specter color blue=200
+werewolf color red=139
+werewolf color green=69
+werewolf color blue=19
+arcanist color red=255
+arcanist color green=0
+arcanist color blue=0
+gargoyle color red=127
+gargoyle color green=127
+gargoyle color blue=127
+goblin color red=0
+goblin color green=255
+goblin color blue=0
+
+# Status
+message status size=0.05
+message attributes size=0.03
+attributes back color red=100
+attributes back color green=100
+attributes back color blue=100
+attributes fill color red=0
+attributes fill color green=0
+attributes fill color blue=255
+progress fill color red=255
+progress fill color green=0
+progress fill color blue=0
+
+# Game Over stats
+stats game over x=0.30
+stats game over y=0.15
+stats game over size=0.07
+
+# Game Over restart button
+button game over x=0.10
+button game over y=0.65
+button game over size=0.10
+
+# Overlay
+overlay fill color red=0
+overlay fill color green=0
+overlay fill color blue=0
+overlay back color red=127
+overlay back color green=127
+overlay back color blue=127
+
+# Inventory screen
+inventory height=0.025
+
+torch render factor=0.4
+torch color red=240
+torch color green=127
+torch color blue=19
+
+bag enchantment render factor=0.6
+bag enchantment color red=205
+bag enchantment color green=133
+bag enchantment color blue=63

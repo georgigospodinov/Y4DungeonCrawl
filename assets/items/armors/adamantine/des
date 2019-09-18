@@ -1,0 +1,11 @@
+name=Adamantine Armor
+inventory description=A heavy but very hard suit of armor.
+defense bonus=8
+agility penalty=3
+render factor=0.85
+color red=0
+color green=0
+color blue=0
+drop chance=0.1
+value=10
+magical=no

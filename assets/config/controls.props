@@ -1,0 +1,12 @@
+# Movement
+move left=37
+move up=38
+move right=39
+move down=40
+show inventory=73
+use button=85
+delete item key=68
+
+# Combat
+attack button=65
+next button=10

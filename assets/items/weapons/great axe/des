@@ -1,0 +1,15 @@
+name=GREAT AXE
+inventory description=BIG AXE IS BEST AXE!
+value=7
+drop chance=0.3
+magical=no
+color red=192
+color green=192
+color blue=192
+render factor=1.0
+attack bonus=5
+enemy text=Problem: 
+attack description=Apply the axe DIRECTLY to the problem!
+on damage=Keep applying, problem is solvable
+no damage=Hmm, perhaps need a bigger axe?
+kill=Problem solved.

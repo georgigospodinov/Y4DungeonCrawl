@@ -1,0 +1,15 @@
+name=Dagger
+inventory description=A short blade, good for stabbing.
+attack bonus=1
+magical=no
+enemy text=Stab target: 
+attack description=Stabby, stabby.
+on damage=Stabbing is effective
+no damage=Stabbing does not seem to be effective.
+kill=That's a lot of blood leaking from the stab wound.
+drop chance=0.9
+value=1
+render factor=0.4
+color red=65
+color green=65
+color blue=0

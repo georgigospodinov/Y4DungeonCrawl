@@ -1,0 +1,60 @@
+# as fixed cell number
+min room size=3
+
+# The chance that the root region will be split. It is multiplied by the depth of the dungeon.
+split chance per depth=0.4
+# The reduction in spilt chance. After a region is split, the chance that its sub-regions will be split is multiplied by this variable.
+split chance multiplier=0.5
+
+# Attributes
+player bonus health=2
+default max health=5
+default strength=3
+default agility=2
+agility jump factor=0.25
+default awareness=4
+short range vision factor=0.25
+xp per level=5
+hp per level=3
+
+# Monster attribute bonuses
+gargoyle strength bonus=7
+gargoyle health bonus=10
+werewolf strength bonus=4
+werewolf awareness bonus=8
+werewolf agility bonus=3
+specter agility bonus=1
+
+# Monster wander duration (in frames)
+min wander duration=30
+max wander duration=300
+
+# Monster XP rewards
+specter xp reward=12
+werewolf xp reward=9
+arcanist xp reward=15
+gargoyle xp reward=6
+
+# Other xp rewards
+xp per dungeon=2
+
+# Monster spawn chances
+# arcanist must have lowest chance
+arcanist spawn chance=0.05
+# specter must have second lowest
+specter spawn chance=0.2
+# werewolf must have second highest
+werewolf spawn chance=0.5
+# gargoyle must have highest
+gargoyle spawn chance=0.9
+# all of them get multiplied
+special spawn chance per depth=0.2
+threat per depth=1
+
+specter haunt distance=5
+
+
+# Items
+item value per depth=1
+initial capacity=5
+max torch range=9

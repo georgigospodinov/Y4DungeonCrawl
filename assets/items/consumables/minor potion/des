@@ -1,0 +1,8 @@
+name=Minor Potion
+inventory description=Restores a small amount of health (1).
+value=1
+drop chance=0.8
+render factor=0.2
+color red=127
+color green=0
+color blue=127

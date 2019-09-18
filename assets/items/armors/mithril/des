@@ -1,0 +1,12 @@
+name=Mithril Armor
+inventory description=A light but strong suit of armor.
+defense bonus=2
+agility penalty=0
+drop chance=0.3
+value=7
+render factor=0.6
+color red=0
+color green=63
+color blue=255
+drop chance=0.1
+magical=yes

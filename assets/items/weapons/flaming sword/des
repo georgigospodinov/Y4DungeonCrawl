@@ -1,0 +1,15 @@
+name=Flaming Sword
+inventory description=This. Sword. Is on Fireeeeeeeee!
+magical=yes
+enemy text=Time to cut and burn this 
+attack bonus=3
+value=10
+drop chance=0.1
+attack description=Set'em on FIRE!
+on damage=That was good burn
+no damage=What? No burn?
+kill=Ashes are all that's left.
+render factor=0.9
+color red=255
+color green=0
+color blue=0

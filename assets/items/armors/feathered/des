@@ -1,0 +1,11 @@
+name=Feathered Armor
+inventory description=Made entirely of feathers, this armor lets you move quickly at the cost of protection.
+defense bonus=-2
+agility penalty=-4
+drop chance=0.1
+value=5
+render factor=0.65
+color red=222
+color green=222
+color blue=222
+magical=yes
